@@ -1,5 +1,5 @@
 # OpenScan Classic Premium
-Completely redesigned version of the OpenScan Classic by Thomas Megel ([ @github/OpenScan-org ]).
+Completely redesigned version of the OpenScan Classic by Thomas Megel ([ @github/OpenScan-org ](https://github.com/OpenScan-org)).
 
 > [!CAUTION]
 > This version is still work in progress and early access. There's no guarantee everything works as intended.
