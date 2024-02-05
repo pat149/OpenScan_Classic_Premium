@@ -32,3 +32,5 @@ Every printed part can be printed without any supports at all using the followin
 > [!NOTE]
 > Coming soon!
 
+## To-do-list
+- [ ] Adding more rigidity to the turntable stepper frame mount
