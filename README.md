@@ -6,7 +6,7 @@ Completely redesigned version of the OpenScan Classic by Thomas Megel (https://g
 
 ![Picture of assembly](/pictures/OpenScan.PNG)
 
-## Introduction and Changes
+## Introduction
 The intentions behind the redesign of the OpenScan Classic were that it seems it has never gotten out of it's prototype stage constructionwise.
 So I made a list with things that should be improved.
 
@@ -16,3 +16,7 @@ So I made a list with things that should be improved.
 - use heated inserts instead of driving the screw into the plastic
 - higher modularity concerning the size of the scanner
 - printing without any supports
+
+So I redesigned the Classic version from scratch on. No parts of the original have been reused in order to
+
+## Detailed changes to the original OpenScan Classic
