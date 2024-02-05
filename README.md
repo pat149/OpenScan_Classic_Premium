@@ -17,6 +17,9 @@ So I made a list with things that should be improved.
 - higher modularity concerning the size of the scanner
 - printing without any supports
 
-So I redesigned the Classic version from scratch on. No parts of the original have been reused in order to
+So I redesigned the Classic version from scratch on. No parts of the original have been reused in order to make room for improvements while simultaneously keeping the original shape and functionality.
 
-## Detailed changes to the original OpenScan Classic
+## Assembly instructions
+> [!NOTE]
+> Coming soon!
+
