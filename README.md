@@ -21,6 +21,32 @@ So I made a list with things that should be improved.
 So I redesigned the Classic version from scratch on and the result was the OpenScan Classic Premium (might change the name in the future). No parts of the original mainframe have been reused in order to make room for improvements while simultaneously keeping the original shape and functionality.
 Because I don't use a PiCam I didn't redesigned the stand for the Raspberry Pi (yet).
 
+## Bill of material
+This BOM represents the bare minimum of material without using any extensions on the arms.
+| Part  | Quantity |
+| ------------- | ------------- |
+| M3x8 (ISO 4762) | 8  |
+| M3x10 (ISO 4762) | 2  |
+| M3x25 (ISO 4762) | 2  |
+| M3x30 (ISO 4762) | 4  |
+| M5x20 (ISO 4762) | 1  |
+| M5x25 or M5x30 (ISO 4762) (depending on shaft stick out) | 1  |
+| Washer M5  | 2  |
+| Heated Insert M3x4  | 8  |
+| Heated Insert M5x6  | 2  |
+| Ball bearing 625-2RS  | 4  |
+| Nema 17 Stepper Motor (>13Ncm)  | 1  |
+| Nema 17 Stepper Motor (>40Ncm)  | 1  |
+| Stand1_Nema17.step  | 1  |
+| Stand2.step  | 1  |
+| Spacer_Adapter_Gear.step (Measure shaft stick out for correct version)  | 1  |
+| Gear_Small.step  | 1  |
+| Adapter_Gear.step  | 1  |
+| Adapter.step  | 1  |
+| Rotary_Arm.step  | 2  |
+| Turntable_Base1.step  | 1  |
+| Turntable_Base2.step  | 1  |
+
 ## Print settings
 Every printed part can be printed without any supports at all using the following print settings:
 - 0.4mm nozzle
