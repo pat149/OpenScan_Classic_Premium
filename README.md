@@ -18,8 +18,15 @@ So I made a list with things that should be improved.
 - cable management for the turntable stepper
 - printing without any supports
 
-So I redesigned the Classic version from scratch on. No parts of the original mainframe have been reused in order to make room for improvements while simultaneously keeping the original shape and functionality.
+So I redesigned the Classic version from scratch on and the result was the OpenScan Classic Premium (might change the name in the future). No parts of the original mainframe have been reused in order to make room for improvements while simultaneously keeping the original shape and functionality.
 Because I don't use a PiCam I didn't redesigned the stand for the Raspberry Pi (yet).
+
+## Print settings
+Every printed part can be printed without any supports at all using the following print settings:
+- 0.4mm nozzle
+- 0.2mm layer height
+- 3 walls (except for Turntable_Base, Turntable_Extension and Rotary_Arm: min. 5 walls, depending on the overall length)
+- 15% infill
 
 ## Assembly instructions
 > [!NOTE]
