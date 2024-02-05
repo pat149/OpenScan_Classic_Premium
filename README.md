@@ -4,7 +4,7 @@ Completely redesigned version of the OpenScan Classic by Thomas Megel (https://g
 > [!CAUTION]
 > This version is still work in progress and early access. There's no guarantee everything works as intended.
 
-![Picture of assembly](/pictures/OpenScan.PNG)
+![OpenScan Classic Premium](/pictures/OpenScan.PNG)
 
 ## Introduction
 The intentions behind the redesign of the OpenScan Classic were that it seems it has never gotten out of it's prototype stage constructionwise.
@@ -31,6 +31,10 @@ Every printed part can be printed without any supports at all using the followin
 ## Assembly instructions
 > [!NOTE]
 > Coming soon!
+
+![Assembly of the motor stand](/pictures/Stand1_Nema17_Exploded.PNG)
+![Assembly of the stand 2](/pictures/Stand2_Exploded.PNG)
+![Assembly of the arms](/pictures/Arms_Exploded.PNG)
 
 ## To-do-list
 - [ ] Adding more rigidity to the turntable stepper frame mount
