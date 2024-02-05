@@ -1,4 +1,4 @@
-# OpenScan_Classic_Premium
+# OpenScan Classic Premium
 Completely redesigned version of the OpenScan Classic by Thomas Megel (https://github.com/OpenScan-org/OpenScan-Design).
 
 > [!CAUTION]
