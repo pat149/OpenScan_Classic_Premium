@@ -2,7 +2,7 @@
 Completely redesigned version of the OpenScan Classic by Thomas Megel ([ @github/OpenScan-org ](https://github.com/OpenScan-org)).
 
 > [!CAUTION]
-> This version is still work in progress and early access. There's no guarantee everything works as intended. I'm expecting to do the full testing in the middle of February.
+> This version is still work in progress and early access. There's no guarantee everything works as intended. I'm expecting to do the full testing until the middle of February.
 
 ![OpenScan Classic Premium](/pictures/OpenScan.PNG)
 
