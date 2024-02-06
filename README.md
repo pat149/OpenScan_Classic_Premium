@@ -2,7 +2,7 @@
 Completely redesigned version of the OpenScan Classic by Thomas Megel ([ @github/OpenScan-org ](https://github.com/OpenScan-org)).
 
 > [!CAUTION]
-> This version is still work in progress and early access. There's no guarantee everything works as intended. I'm expecting to do the full testing until the middle of February.
+> This version is still work in progress. There's no guarantee everything works as intended. I'm expecting to do the full testing until the middle of February.
 
 ![OpenScan Classic Premium](/pictures/OpenScan.PNG)
 
@@ -56,8 +56,8 @@ Every printed part can be printed without any supports at all using the followin
 - 15% infill
 
 ## Assembly instructions
-> [!NOTE]
-> Coming soon!
+For a detailed step by step instruction go to the dedicated instructions folder above.
+For those only interested in the assembly order here are some exploded views of the OpenScan Classic Premium.
 
 ![Assembly of the motor stand](/pictures/Stand1_Nema17_Exploded.PNG)
 ![Assembly of the stand 2](/pictures/Stand2_Exploded.PNG)
