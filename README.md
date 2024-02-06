@@ -17,6 +17,7 @@ So I made a list with things that should be improved.
 - higher modularity concerning the size of the scanner
 - cable management for the turntable stepper
 - printing without any supports
+- higher quality looking finish
 
 So I redesigned the Classic version from scratch on and the result was the OpenScan Classic Premium (might change the name in the future). No parts of the original mainframe have been reused in order to make room for improvements while simultaneously keeping the original shape and functionality.
 Because I don't use a PiCam I didn't redesigned the stand for the Raspberry Pi (yet).
