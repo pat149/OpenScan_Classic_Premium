@@ -31,7 +31,7 @@ This BOM represents the bare minimum of material without using any extensions on
 | M3x25 (ISO 4762) | 2  |
 | M3x30 (ISO 4762) | 4  |
 | M5x20 (ISO 4762) | 1  |
-| M5x25 or M5x30 (ISO 4762) (depending on shaft stick out) | 1  |
+| M5x25 (ISO 4762)| 1  |
 | Washer M5  | 2  |
 | Heated Insert M3x4  | 8  |
 | Heated Insert M5x6  | 2  |
