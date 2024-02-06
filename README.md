@@ -49,7 +49,7 @@ This BOM represents the bare minimum of material without using any extensions on
 | Turntable_Base2.step  | 1  |
 
 ## Print settings
-Every printed part can be printed without any supports at all using the following print settings:
+Every part can be printed without any supports at all using the following print settings:
 - 0.4mm nozzle
 - 0.2mm layer height
 - 3 walls (except for Turntable_Base, Turntable_Extension and Rotary_Arm: min. 5 walls, depending on the overall length)
