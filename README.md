@@ -66,3 +66,6 @@ For those only interested in the assembly order here are some exploded views of 
 ## To-do-list
 - [ ] Adding more rigidity to the turntable stepper frame mount
 - [ ] Create a heavy duty version
+
+## Changelog
+- 1st March, 2024: reuploaded all *.stl with correct scale
